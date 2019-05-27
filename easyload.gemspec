@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   
   s.add_development_dependency('rspec',     ['~> 2.5.0'])
   s.add_development_dependency('yard',      ['~> 0.6.4'])
-  s.add_development_dependency('bluecloth', ['~> 2.0.11'])
+  s.add_development_dependency('bluecloth', '~> 2.2.0')
 end
